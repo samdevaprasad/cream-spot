@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/cream-spot/static/js/runtime~main.fc7f82cb.js"
   },
   {
-    "revision": "026ea67ffa4688ecaa09",
-    "url": "/cream-spot/static/js/main.ff8326d9.chunk.js"
+    "revision": "3b6bf8781b8eaacbf753",
+    "url": "/cream-spot/static/js/main.b432cd77.chunk.js"
   },
   {
     "revision": "ba264cd90c4d36546d5a",
     "url": "/cream-spot/static/js/2.8f71a45e.chunk.js"
   },
   {
-    "revision": "026ea67ffa4688ecaa09",
+    "revision": "3b6bf8781b8eaacbf753",
     "url": "/cream-spot/static/css/main.c4aff73a.chunk.css"
   },
   {
-    "revision": "f140db6fde5148b0c87e1f231150a68f",
+    "revision": "dca702428190a1ad7e321b985e2e17bd",
     "url": "/cream-spot/index.html"
   }
 ];
