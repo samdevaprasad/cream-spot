@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cream-spot/precache-manifest.59515efa9b7db5bd0d382144e2db1e56.js"
+  "/cream-spot/precache-manifest.76657d46cb90f8ad4cda3a3be54c72d8.js"
 );
 
 workbox.clientsClaim();
