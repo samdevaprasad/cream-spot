@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/cream-spot/static/js/runtime~main.fc7f82cb.js"
   },
   {
-    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
-    "url": "/cream-spot/static/media/Roboto-Bold.e31fcf18.ttf"
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/cream-spot/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "fcc33e35fb3347474913",
@@ -96,12 +96,12 @@ self.__precacheManifest = [
     "url": "/cream-spot/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
-    "revision": "30799efa5bf74129468ad4e257551dc3",
-    "url": "/cream-spot/static/media/Roboto-Regular.30799efa.eot"
-  },
-  {
     "revision": "a990f611f2305dc12965f186c2ef2690",
     "url": "/cream-spot/static/media/Roboto-Light.a990f611.eot"
+  },
+  {
+    "revision": "30799efa5bf74129468ad4e257551dc3",
+    "url": "/cream-spot/static/media/Roboto-Regular.30799efa.eot"
   },
   {
     "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
@@ -152,27 +152,27 @@ self.__precacheManifest = [
     "url": "/cream-spot/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "94998475f6aea65f558494802416c1cf",
-    "url": "/cream-spot/static/media/Roboto-Thin.94998475.ttf"
-  },
-  {
     "revision": "46e48ce0628835f68a7369d0254e4283",
     "url": "/cream-spot/static/media/Roboto-Light.46e48ce0.ttf"
+  },
+  {
+    "revision": "94998475f6aea65f558494802416c1cf",
+    "url": "/cream-spot/static/media/Roboto-Thin.94998475.ttf"
   },
   {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
     "url": "/cream-spot/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/cream-spot/static/media/Roboto-Medium.894a2ede.ttf"
+    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
+    "url": "/cream-spot/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
     "revision": "fcc33e35fb3347474913",
     "url": "/cream-spot/static/css/2.2b6a9977.chunk.css"
   },
   {
-    "revision": "569322b804243e9258aeac3845b13449",
+    "revision": "db815fb743645b7d38e11dbf2d5b5a34",
     "url": "/cream-spot/index.html"
   }
 ];
