@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/cream-spot/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "bf5e58a072e4c0214386",
-    "url": "/cream-spot/static/css/main.c4aff73a.chunk.css"
+    "revision": "3e61e735345ed4b2437d",
+    "url": "/cream-spot/static/css/main.b32678e0.chunk.css"
   },
   {
     "revision": "e841c2d5c0b0d59c8e5e",
     "url": "/cream-spot/static/js/runtime~main.fc7f82cb.js"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/cream-spot/static/media/Roboto-Regular.df7b648c.ttf"
+    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
+    "url": "/cream-spot/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
     "revision": "aba0e221e01bd9e5ce18",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/cream-spot/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "bf5e58a072e4c0214386",
-    "url": "/cream-spot/static/js/main.3f8d440c.chunk.js"
+    "revision": "3e61e735345ed4b2437d",
+    "url": "/cream-spot/static/js/main.1ccd6f1e.chunk.js"
   },
   {
     "revision": "dfe56a876d0282555d1e2458e278060f",
@@ -120,16 +120,16 @@ self.__precacheManifest = [
     "url": "/cream-spot/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
-    "revision": "2751ee43015f9884c3642f103b7f70c9",
-    "url": "/cream-spot/static/media/Roboto-Regular.2751ee43.woff2"
+    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
+    "url": "/cream-spot/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
     "revision": "574fd0b50367f886d359e8264938fc37",
     "url": "/cream-spot/static/media/Roboto-Medium.574fd0b5.woff2"
   },
   {
-    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
-    "url": "/cream-spot/static/media/Roboto-Bold.39b2c303.woff2"
+    "revision": "2751ee43015f9884c3642f103b7f70c9",
+    "url": "/cream-spot/static/media/Roboto-Regular.2751ee43.woff2"
   },
   {
     "revision": "7500519de3d82e33d1587f8042e2afcb",
@@ -160,19 +160,19 @@ self.__precacheManifest = [
     "url": "/cream-spot/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/cream-spot/static/media/Roboto-Medium.894a2ede.ttf"
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/cream-spot/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
-    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
-    "url": "/cream-spot/static/media/Roboto-Bold.e31fcf18.ttf"
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/cream-spot/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "aba0e221e01bd9e5ce18",
     "url": "/cream-spot/static/css/2.2b6a9977.chunk.css"
   },
   {
-    "revision": "2eda6ac92411c298707305cc4ff653c0",
+    "revision": "3ba0f985f56e3efa3e7715a41a173832",
     "url": "/cream-spot/index.html"
   }
 ];
