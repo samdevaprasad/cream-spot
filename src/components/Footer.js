@@ -58,7 +58,7 @@ export const Footer = () => {
               <li className="list-unstyled">
                 <a href="#!">Privacy</a>
               </li>
-              <li className="list-unstyled">
+              <li className="list-unstyled" style={{'padding-top': '10px'}}>
                 <h5>Other</h5>
               </li>
               <li className="list-unstyled">
