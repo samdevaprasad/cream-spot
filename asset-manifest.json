@@ -1,14 +1,18 @@
 {
   "main.css": "/cream-spot/static/css/main.c4aff73a.chunk.css",
-  "main.js": "/cream-spot/static/js/main.b432cd77.chunk.js",
-  "main.js.map": "/cream-spot/static/js/main.b432cd77.chunk.js.map",
+  "main.js": "/cream-spot/static/js/main.3f8d440c.chunk.js",
+  "main.js.map": "/cream-spot/static/js/main.3f8d440c.chunk.js.map",
   "runtime~main.js": "/cream-spot/static/js/runtime~main.fc7f82cb.js",
   "runtime~main.js.map": "/cream-spot/static/js/runtime~main.fc7f82cb.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/cream-spot/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/cream-spot/static/js/2.8f71a45e.chunk.js.map",
+  "static/css/2.2b6a9977.chunk.css": "/cream-spot/static/css/2.2b6a9977.chunk.css",
+  "static/js/2.5e446542.chunk.js": "/cream-spot/static/js/2.5e446542.chunk.js",
+  "static/js/2.5e446542.chunk.js.map": "/cream-spot/static/js/2.5e446542.chunk.js.map",
   "index.html": "/cream-spot/index.html",
-  "precache-manifest.de778ac946723886ad0ab2e0d47860de.js": "/cream-spot/precache-manifest.de778ac946723886ad0ab2e0d47860de.js",
+  "precache-manifest.d7fa8c131c494a41d5c971a9bf7b5b45.js": "/cream-spot/precache-manifest.d7fa8c131c494a41d5c971a9bf7b5b45.js",
   "service-worker.js": "/cream-spot/service-worker.js",
+  "static/css/2.2b6a9977.chunk.css.map": "/cream-spot/static/css/2.2b6a9977.chunk.css.map",
   "static/css/main.c4aff73a.chunk.css.map": "/cream-spot/static/css/main.c4aff73a.chunk.css.map",
+  "static/media/mdb.css": "/cream-spot/static/media/arrow_right.8ef6a08c.svg",
+  "static/media/all.min.css": "/cream-spot/static/media/fa-solid-900.b70cea03.ttf",
   "static/media/logo.svg": "/cream-spot/static/media/logo.5d5d9eef.svg"
 }
