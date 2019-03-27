@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
+import { Provider } from 'react-redux';
+import { store } from './store';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import './index.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap-css-only/css/bootstrap.min.css';
@@ -9,9 +11,13 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render((
+  <Provider store={store}>
     <BrowserRouter>
-        <App />
+      <Switch>
+        <Route path="/" component={App} />
+      </Switch>
     </BrowserRouter>
+    </Provider>
 ), document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
