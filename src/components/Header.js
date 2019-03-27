@@ -24,20 +24,22 @@ class Header extends Component {
                 <MDBNavLink to="#!">Home</MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-                <MDBNavLink to="#!">Features</MDBNavLink>
+                <MDBNavLink to="">Features</MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-                <MDBNavLink to="#!">Pricing</MDBNavLink>
+                <MDBNavLink to="">Pricing</MDBNavLink>
             </MDBNavItem>
             </MDBNavbarNav>
             <MDBNavbarNav right>
             <MDBNavItem>
-                <MDBNavLink className="waves-effect waves-light" to="#!">
+                <MDBNavLink className="waves-effect waves-light" to="">
+                <a href='https://twitter.com/creamjacket69'>
                 <MDBIcon fab icon="twitter" />
+                </a>
                 </MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-                <MDBNavLink className="waves-effect waves-light" to="#!">
+                <MDBNavLink className="waves-effect waves-light" to="https://twitter.com/creamjacket69">
                 <MDBIcon fab icon="google-plus-g" />
                 </MDBNavLink>
             </MDBNavItem>
@@ -47,10 +49,10 @@ class Header extends Component {
                     <MDBIcon icon="user" />
                 </MDBDropdownToggle>
                 <MDBDropdownMenu className="dropdown-default" right>
-                    <MDBDropdownItem href="#!">Notifications</MDBDropdownItem>
-                    <MDBDropdownItem href="#!">History</MDBDropdownItem>
-                    <MDBDropdownItem href="#!">Settings</MDBDropdownItem>
-                    <MDBDropdownItem href="#!">Logout</MDBDropdownItem>
+                    <MDBDropdownItem href="https://venmo.com/sammydollabills">Notifications</MDBDropdownItem>
+                    <MDBDropdownItem href="https://venmo.com/sammydollabills">History</MDBDropdownItem>
+                    <MDBDropdownItem href="https://venmo.com/sammydollabills">Settings</MDBDropdownItem>
+                    <MDBDropdownItem href="https://venmo.com/sammydollabills">Logout</MDBDropdownItem>
                 </MDBDropdownMenu>
                 </MDBDropdown>
             </MDBNavItem>

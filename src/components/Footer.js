@@ -12,13 +12,13 @@ export const Footer = () => {
                 <h5>About</h5>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Founding</a>
+                <a href="https://venmo.com/sammydollabills">Founding</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">The Team</a>
+                <a href="https://venmo.com/sammydollabills">The Team</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Contact</a>
+                <a href="https://venmo.com/sammydollabills">Contact</a>
               </li>
             </ul>
           </MDBCol>
@@ -28,19 +28,19 @@ export const Footer = () => {
                 <h5>Business</h5>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Advertise</a>
+                <a href="https://venmo.com/sammydollabills">Advertise</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Sales</a>
+                <a href="https://venmo.com/sammydollabills">Sales</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Jobs</a>
+                <a href="https://venmo.com/sammydollabills">Jobs</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Sponsors</a>
+                <a href="https://venmo.com/sammydollabills">Sponsors</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Careers</a>
+                <a href="https://venmo.com/sammydollabills">Careers</a>
               </li>
             </ul>
           </MDBCol>
@@ -50,25 +50,25 @@ export const Footer = () => {
                 <h5>Legal</h5>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Terms Of Use</a>
+                <a href="https://venmo.com/sammydollabills">Terms Of Use</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Community Guidelines</a>
+                <a href="https://venmo.com/sammydollabills">Community Guidelines</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Privacy</a>
+                <a href="https://venmo.com/sammydollabills">Privacy</a>
               </li>
               <li className="list-unstyled" style={{'padding-top': '10px'}}>
                 <h5>Other</h5>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Tickets</a>
+                <a href="https://venmo.com/sammydollabills">Tickets</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Merchandise</a>
+                <a href="https://venmo.com/sammydollabills">Merchandise</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">World Tour</a>
+                <a href="https://venmo.com/sammydollabills">World Tour</a>
               </li>
             </ul>
           </MDBCol>
@@ -78,25 +78,25 @@ export const Footer = () => {
                 <h5>Social</h5>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Youtube</a>
+                <a href="https://venmo.com/sammydollabills">Youtube</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Facebook</a>
+                <a href="https://venmo.com/sammydollabills">Facebook</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Twitter</a>
+                <a href="https://venmo.com/sammydollabills">Twitter</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">LinkedIn</a>
+                <a href="https://venmo.com/sammydollabills">LinkedIn</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Myspace</a>
+                <a href="https://venmo.com/sammydollabills">Myspace</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Tinder</a>
+                <a href="https://venmo.com/sammydollabills">Tinder</a>
               </li>
               <li className="list-unstyled">
-                <a href="#!">Brazzers</a>
+                <a href="https://venmo.com/sammydollabills">Brazzers</a>
               </li>
             </ul>
           </MDBCol>
