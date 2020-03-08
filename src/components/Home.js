@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { pullPlayerData } from '../actions/pgaTourPlayerAction';
+import { findAllPlayers, pullPlayerData } from '../actions/pgaTourPlayerAction';
 const Promise = global.Promise;
 
 const mapStateToProps = state => ({
@@ -10,11 +10,19 @@ const mapStateToProps = state => ({
 const mapDispatchToProps = dispatch => ({
   pullPlayerData: (id) => {
     dispatch(pullPlayerData(id))
+  },
+  findAllPlayers: () => {
+    dispatch(findAllPlayers())
   }
 });
 
 class Home extends React.Component {
+  constructor(props){
+    super(props);
+  }
+
   componentWillMount() {
+    this.props.findAllPlayers();
     this.props.pullPlayerData('30925');
   }
 

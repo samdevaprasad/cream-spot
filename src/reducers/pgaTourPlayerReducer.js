@@ -1,4 +1,4 @@
-import { REQUEST, SUCCESS, FAILURE } from '../constants/actionTypes';
+import { REQUEST, SUCCESS, FAILURE, PLAYER_DATA, ALL_PLAYERS } from '../constants/actionTypes';
 
 const initialState = {
     dustinJohnson: {}
@@ -6,19 +6,13 @@ const initialState = {
 
 export default (state = initialState, action) => {
   switch (action.type) {
-    case REQUEST:
-      return {
-        ...state
-      };
-    case SUCCESS:
+    case `${PLAYER_DATA}_${SUCCESS}`:
       return {
           ...state,
           dustinJohnson: action.payload.plrs
       };
-    case FAILURE:
-      return {
-          ...state
-      };
+    case `${ALL_PLAYERS}_${SUCCESS}`:
+      return state;
     default:
       return state;
   }

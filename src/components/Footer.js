@@ -7,7 +7,7 @@ export const Footer = () => {
       <MDBContainer fluid className="text-center text-md-left">
         <MDBRow>
         <MDBCol md="3">
-            <ul>
+        <ul>
               <li className="list-unstyled">
                 <h5>About</h5>
               </li>
@@ -23,7 +23,7 @@ export const Footer = () => {
             </ul>
           </MDBCol>
           <MDBCol md="3">
-            <ul>
+          <ul>
               <li className="list-unstyled">
                 <h5>Business</h5>
               </li>
@@ -91,12 +91,6 @@ export const Footer = () => {
               </li>
               <li className="list-unstyled">
                 <a href="https://venmo.com/sammydollabills">Myspace</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="https://venmo.com/sammydollabills">Tinder</a>
-              </li>
-              <li className="list-unstyled">
-                <a href="https://venmo.com/sammydollabills">Brazzers</a>
               </li>
             </ul>
           </MDBCol>
